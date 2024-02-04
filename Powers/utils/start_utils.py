@@ -68,12 +68,12 @@ async def gen_start_kb(q: Message or CallbackQuery):
             [
                 (
                     "NEWS CHANNEL",
-                    "https://t.me/devils_bots",
+                    "https://t.me/+f9ZegEtS4U4wNDdl",
                     "url",
                 ),
                 (
                     "Powered by",
-                    f"https://t.me/devils_bots",
+                    f"https://t.me/+f9ZegEtS4U4wNDdl",
                     "url",
                 ),
             ],
