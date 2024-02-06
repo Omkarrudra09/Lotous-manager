@@ -68,12 +68,12 @@ async def gen_start_kb(q: Message or CallbackQuery):
             [
                 (
                     "NEWS CHANNEL",
-                    "https://t.me/+f9ZegEtS4U4wNDdl",
+                    "https://t.me/friends_chat_groupz",
                     "url",
                 ),
                 (
                     "Powered by",
-                    f"https://t.me/+f9ZegEtS4U4wNDdl",
+                    f"https://t.me/friends_chat_groupz",
                     "url",
                 ),
             ],
@@ -267,7 +267,7 @@ async def get_help_msg(m: Message or CallbackQuery, help_option: str):
         else:
             mes = m
         help_msg = f"""
-Hey **[{mes.from_user.first_name}](http://t.me/{mes.from_user.username})**!I am @Alllllllllllllllllllllll's assistant✨.
+Hey **[{mes.from_user.first_name}](http://t.me/{mes.from_user.username})**!I am @LotousIpsitaMusic's assistant✨.
 I'm here to help you manage your groups!
 Commands available:
 × /start: Start the bot
